@@ -28,5 +28,6 @@
 ## 📂 Live Projects:
 <p align="start">Below are the live projects I have worked on:</p>
 
-- [GradBudy](https://www.gradbudy.com/) - A comprehensive LMS platform
-- [GroEmp](https://www.groemp.com) - Role-based admin panel and management system.
+- [ClipURL](https://clipurl.tech/) - A URL shortener and QR code generator, with more features in development.
+- [AI Detector-App](https://ai-detector-by-shivam.netlify.app/) - An advanced visual recognition platform for object detection, facial analysis, and more.
+- [Brainwave-UI](https://brainwave-ui-by-shivam.netlify.app/) - A captivating and user-centric interface built with GSAP and Three.js.
