@@ -74,11 +74,11 @@ Third-party API integrations, webhook systems, microservices, RESTful and GraphQ
 │  Most developers build what you ask for.                        │
 │  I build what your business actually needs.                     │
 │                                                                 │
-│  ✦  I think in systems, not features                           │
-│  ✦  I communicate in outcomes, not tickets                     │
-│  ✦  I ship production software, not prototypes                 │
-│  ✦  I handle frontend, backend, infra and deployment           │
-│  ✦  I treat your product like it's my own                      │
+│  ✦  I think in systems, not features                            │
+│  ✦  I communicate in outcomes, not tickets                      │
+│  ✦  I ship production software, not prototypes                  │
+│  ✦  I handle frontend, backend, infra and deployment            │
+│  ✦  I treat your product like it's my own                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
