@@ -296,10 +296,10 @@ If you're building something — a SaaS, an MVP, an internal tool, or anything i
 
 <div align="center">
 
-```
+<pre>
 I don't just write code.
 I build the products your business needs to grow.
-```
+</pre>
 
 *Open to SaaS projects · MVP builds · Long-term technical partnerships*
 
