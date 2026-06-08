@@ -1,34 +1,304 @@
-<h1 align="center">Hola Mundo! <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/hi.gif">, I'm Shivam Patel</h1>
-<h3 align="center">A passionate full-stack developer.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivampatel0048&label=Profile%20views&color=0e75b6&style=flat" alt="shivampatel0048"/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:3b82f6&height=200&section=header&text=Shivam%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Technical%20Partner&descAlignY=58&descSize=18&descColor=93c5fd" width="100%" />
+
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Open%20to%20Projects-Available-22c55e?style=flat-square&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Founder-Tejovix-3b82f6?style=flat-square&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Speciality-MVP%20%26%20SaaS-6366f1?style=flat-square&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Based%20in-India-f97316?style=flat-square&labelColor=0f172a" />
 </p>
 
-## 💫 About Me:
-👋 Hi, I’m Shivam Patel<br>👀 Passionate about crafting impactful and scalable applications.<br>🌱 Embracing the ever-evolving world of technology and continuous learning.<br>💞️ Open to collaborating on innovative and exciting projects;<br>📫 Reach me at: edu.shivampatel@gmail.com
+</div>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-patel-30867825b/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white)](https://shivampatel0048.vercel.app/)
+## Your Technical Co-Founder. Without The Equity.
 
-## 💻 Tech Stack:
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build the products founders need to **launch, grow, and automate** — from idea to production-grade web application.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivampatel0048&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivampatel0048&theme=transparent&hide_border=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampatel0048&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Over the past two years I've shipped full-stack products inside a social media startup, at a full-stack product agency, and as a freelance developer for clients in biotech, hospitality, and eCommerce. Every project was real. Every deadline was real. Every product is live.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivampatel0048&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Who I work with:** Early-stage startup founders · Agency owners · Business operators who need technical execution without building a full dev team.
 
-## 📂 Live Projects:
-<p align="start">Below are the live projects I have worked on:</p>
+**What separates me:** I ask hard questions. I flag bad decisions early. I build for scale on day one — not "we'll fix it later."
 
-- [ClipURL](https://clipurl.tech/) - A URL shortener and QR code generator, with more features in development.
-- [AI Detector-App](https://ai-detector-by-shivam.netlify.app/) - An advanced visual recognition platform for object detection, facial analysis, and more.
-- [Brainwave-UI](https://brainwave-ui-by-shivam.netlify.app/) - A captivating and user-centric interface built with GSAP and Three.js.
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚀 MVP Development**
+From concept to deployed product. I handle architecture, full-stack development, and launch — so you can validate your idea fast without hiring a team.
+
+**⚙️ SaaS Platform Development**
+Multi-tenant architecture, subscription billing, role-based auth, analytics dashboards. Built to scale from day one.
+
+**🤖 AI Feature Integration**
+GPT API pipelines, intelligent automation workflows, AI-powered search and classification. Practical AI — not hype.
+
+**📊 Custom Dashboards & Admin Tools**
+Internal tools, operations dashboards, analytics views. Built exactly for how your team works.
+
+</td>
+<td width="50%" valign="top">
+
+**🔄 Business Automation**
+Eliminate manual work. I build automated pipelines, email workflows, notification systems, and data sync tools that run without human intervention.
+
+**🛒 Booking & Commerce Systems**
+Full reservation flows, payment integration, pricing logic, coupon management, and real-time availability — production-ready, not templated.
+
+**🔍 SEO-Optimised Web Products**
+Performance-first websites built for organic growth. CDN-optimised, Core Web Vitals-ready, structured for search engines from the ground up.
+
+**🔌 API & Integration Development**
+Third-party API integrations, webhook systems, microservices, RESTful and GraphQL APIs designed for reliability.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Why Founders Choose Me
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  Most developers build what you ask for.                        │
+│  I build what your business actually needs.                     │
+│                                                                 │
+│  ✦  I think in systems, not features                           │
+│  ✦  I communicate in outcomes, not tickets                     │
+│  ✦  I ship production software, not prototypes                 │
+│  ✦  I handle frontend, backend, infra and deployment           │
+│  ✦  I treat your product like it's my own                      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Featured Projects
+
+### SHRIM Bioinnovation & Research
+> *Production website for a biotechnology research and innovation laboratory*
+
+The challenge was not development — it was turning years of complex scientific work into a website students, researchers, and institutions could understand in seconds.
+
+| Outcome | Detail |
+|---|---|
+| 🌐 Reach | 500+ visits, 400+ organic users — shortly after launch, without paid ads |
+| 📈 Growth | Lead generation improved through conversion-focused information architecture |
+| ⚡ Performance | ImageKit CDN, asset optimisation, Core Web Vitals-ready |
+| 🔧 Stack | Next.js · TypeScript · Tailwind CSS · ImageKit · Brevo · Vercel |
+
+**[→ Live Site](https://shrim-bioinnovation.vercel.app)**
+
+---
+
+### Banaras Ganga Aarti — Booking Platform
+> *Full-stack reservation system with user website, admin dashboard, and payment infrastructure*
+
+Built an end-to-end booking platform from scratch — handling the complete transaction lifecycle from discovery to confirmation.
+
+| Feature | Implementation |
+|---|---|
+| 💳 Payments | Razorpay gateway integration with automated refunds and coupon handling |
+| 🔐 Auth | JWT-based authentication with role-based access control |
+| 📬 Notifications | Automated email workflows triggered on booking events |
+| 🌍 Accessibility | Google Translate API — multilingual support for wider reach |
+| 📊 Admin | Full reservation management, analytics, pricing control, real-time tracking |
+| 🔧 Stack | Next.js · TypeScript · Node.js · Express.js · MongoDB · Tailwind · Razorpay |
+
+**[→ Live Platform](https://banaragangaaarti.in)**
+
+---
+
+## Professional Experience
+
+<details>
+<summary><strong>Full Stack Developer Intern — Talkfever Social Media Limited (Feb 2026 – Present)</strong></summary>
+
+<br>
+
+Building scalable social platform features inside a live product used by real users. Working across the full stack with primary focus on frontend systems.
+
+- Developing social feeds, topic pages, authentication flows, and interactive UI modules using React.js, Next.js, and TypeScript
+- Collaborating with designers and backend engineers to ship production-ready features on a consistent delivery cycle
+- Supporting backend API development for end-to-end feature delivery
+
+</details>
+
+<details>
+<summary><strong>Software Engineer, Full Stack — Pathnovo Solutions (Apr 2025 – Dec 2025)</strong></summary>
+
+<br>
+
+Led frontend development for production client applications with a focus on scalability, maintainability, and delivery velocity.
+
+- Led frontend architecture using React.js, Next.js, and TypeScript — delivering UI systems used in production
+- Established reusable component patterns and clean code standards that increased team delivery speed by approximately 30%
+- Collaborated with a cross-functional team of 3+ engineers and designers across the product lifecycle
+
+</details>
+
+<details>
+<summary><strong>Full Stack Developer Intern — Pathnovo Solutions (Jun 2024 – Apr 2025)</strong></summary>
+
+<br>
+
+Built and optimised responsive frontend interfaces while contributing to backend and API development.
+
+- Reduced page load time by approximately 20% through optimised component architecture
+- Improved data synchronisation by approximately 30% through efficient RESTful API integration with Node.js, Express.js, and MongoDB
+- Supported microservices development, contributing to a 15% faster project delivery cycle
+
+</details>
+
+<details>
+<summary><strong>Freelance Software Developer — Upwork & Direct Clients (Oct 2023 – Present)</strong></summary>
+
+<br>
+
+Delivering end-to-end web products for clients across biotech, hospitality, and eCommerce.
+
+- Built and shipped production websites and platforms for real clients with real deadlines
+- Handled full product lifecycle: discovery, architecture, development, deployment, and post-launch support
+
+</details>
+
+---
+
+## Tejovix
+
+<div align="center">
+
+```
+  ████████╗███████╗      ██╗ ██████╗ ██╗   ██╗██╗██╗  ██╗
+  ╚══██╔══╝██╔════╝      ██║██╔═══██╗██║   ██║██║╚██╗██╔╝
+     ██║   █████╗        ██║██║   ██║██║   ██║██║ ╚███╔╝
+     ██║   ██╔══╝   ██   ██║██║   ██║╚██╗ ██╔╝██║ ██╔██╗
+     ██║   ███████╗ ╚█████╔╝╚██████╔╝ ╚████╔╝ ██║██╔╝ ██╗
+     ╚═╝   ╚══════╝  ╚════╝  ╚═════╝   ╚═══╝  ╚═╝╚═╝  ╚═╝
+```
+
+**Built to Shine. Built to Scale.**
+
+*Radiate Results Through Technology.*
+
+</div>
+
+Tejovix is my software development practice for founders and growing businesses who need a trusted technical partner — not just a developer for hire.
+
+**Services delivered under Tejovix:**
+
+- SaaS Platform Development
+- MVP Engineering
+- AI Feature Integration
+- Business Automation Systems
+- Custom Admin Dashboards & Internal Tools
+- SEO-Optimised Web Applications
+- Booking & Commerce Systems
+
+If you're building something and need a technical partner who ships — **[let's talk](mailto:shivampatel0048@gmail.com)**.
+
+---
+
+## Current Focus
+
+```yaml
+status:      Available for freelance projects and startup partnerships
+building:    Tejovix — software products for founders and growing businesses
+learning:    Advanced AI integration patterns · System design at scale
+open_to:     SaaS builds · MVP projects · Long-term technical partnerships
+not_open_to: Short spec tasks · Unpaid trials · "Build it and we'll pay later"
+```
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Cloud, Infra & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Payments & Integrations**
+
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## Certifications
+
+| Credential | Issuer | Year |
+|---|---|---|
+| IBM Full Stack Software Developer Specialization | IBM / Coursera | 2024 |
+| Search Engine Optimisation (SEO) | University of California, Davis / Coursera | 2025 |
+| Advanced Full Stack Development | Coursera | 2024 |
+| Introduction to Generative AI | Google | 2024 |
+| SQL Advanced | HackerRank | 2024 |
+
+---
+
+## Contact
+
+<div align="center">
+
+If you're building something — a SaaS, an MVP, an internal tool, or anything in between — and you need a technical partner who ships production-grade software and thinks like a founder:
+
+<br>
+
+**[shivampatel0048@gmail.com](mailto:shivampatel0048@gmail.com)**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivampatel0048.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://shivampatel0048.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patel--shivam)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampatel0048@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+I don't just write code.
+I build the products your business needs to grow.
+```
+
+*Open to SaaS projects · MVP builds · Long-term technical partnerships*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%" />
+
+</div>
