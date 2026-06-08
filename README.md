@@ -103,21 +103,25 @@ The challenge was not development — it was turning years of complex scientific
 
 ---
 
-### Banaras Ganga Aarti — Booking Platform
-> *Full-stack reservation system with user website, admin dashboard, and payment infrastructure*
+### CRC The Peridona — Ultra-Luxury Real Estate Experience
 
-Built an end-to-end booking platform from scratch — handling the complete transaction lifecycle from discovery to confirmation.
+> *Premium luxury real estate platform designed to showcase exclusivity, architecture, and high-value lead acquisition*
 
-| Feature | Implementation |
-|---|---|
-| 💳 Payments | Razorpay gateway integration with automated refunds and coupon handling |
-| 🔐 Auth | JWT-based authentication with role-based access control |
-| 📬 Notifications | Automated email workflows triggered on booking events |
-| 🌍 Accessibility | Google Translate API — multilingual support for wider reach |
-| 📊 Admin | Full reservation management, analytics, pricing control, real-time tracking |
-| 🔧 Stack | Next.js · TypeScript · Node.js · Express.js · MongoDB · Tailwind · Razorpay |
+Built a high-end digital experience for a luxury residential development, balancing sophisticated visual storytelling with conversion-focused lead generation.
 
-**[→ Live Platform](https://banaragangaaarti.in)**
+| Feature                  | Implementation                                                                       |
+| ------------------------ | ------------------------------------------------------------------------------------ |
+| 🏛️ Luxury Presentation  | Editorial-style layouts showcasing architecture, amenities, and project exclusivity  |
+| 📈 Lead Generation       | High-converting inquiry forms optimized for premium buyer acquisition                |
+| ⚡ Performance            | Fast-loading, SEO-optimized frontend with media optimization and modern rendering    |
+| 🔍 SEO Architecture      | Semantic structure, metadata strategy, and search-friendly page architecture         |
+| 🖼️ Visual Discovery     | Rich image galleries and immersive content sections designed for engagement          |
+| 📱 Responsive Experience | Seamless experience across desktop, tablet, and mobile devices                       |
+| 🔧 Stack                 | Next.js · TypeScript · Tailwind CSS · Semantic SEO Architecture · Media Optimization |
+
+**Measured Outcome:** High-end visual storytelling experience that improved organic visibility and increased premium lead submissions.
+
+**[→ Live Platform](https://www.crctheperidona.co.in/)**
 
 ---
 
