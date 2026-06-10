@@ -81,7 +81,7 @@ Booking & Commerce       →  payments · reservations · real-time systems
 
 ## Tejovix
 
-**[Tejovix](https://tejovix.dev)** is my software development and AI solutions practice focused on helping founders and growing businesses turn ideas into scalable digital products.
+**[Tejovix](https://tejovix.dev?utm_source=github.com)** is my software development and AI solutions practice focused on helping founders and growing businesses turn ideas into scalable digital products.
 
 From MVPs and SaaS platforms to AI integrations, automation systems, internal tools, and custom software, Tejovix is built around one goal:
 
